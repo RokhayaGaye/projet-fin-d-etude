@@ -1,0 +1,55 @@
+.container{
+    background-color: #e7dfd7;
+    border: black solid 2px;
+}
+.corps .prof-left img{
+    border-radius: 50%;
+    border: 2px;
+    padding: 20px;
+}
+.entete .profile .statut{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-style: italic;
+}
+.corps{
+    display: flex;
+}
+.corps .prof-left{
+    border-right: black solid 2px;
+    text-align: center;
+    background-color: #BF8275;
+}
+.corps .prof-left h2{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.corps .prof-left .list-item{
+    font-family: Georgia, serif;
+}
+.corps .porf-right{
+    padding: 30px;
+}
+.corps .porf-right .profile .name{
+    color: #BF8275;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.corps .porf-right .profile .statut{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.corps .porf-right h2{
+    font-weight:bolder;
+    font-size: 32px;
+}
+.corps .prof-left
+ .item{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.corps .porf-right .item{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 20px;
+}
